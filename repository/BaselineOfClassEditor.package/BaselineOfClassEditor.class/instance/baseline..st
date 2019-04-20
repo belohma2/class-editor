@@ -11,7 +11,7 @@ baseline: spec
 						repository: 'http://www.smalltalkhub.com/mc/Moose/Merlin/main' ].
 			spec
 				baseline: 'UMLShapes'
-				with: [ spec repository: 'github://openponk/uml-shapes:v1.x/repository' ].
+				with: [ spec repository: 'github://openponk/uml-shapes:pharo7-tmp/repository' ].
 			spec
 				baseline: 'UMLMetamodel'
 				with: [ spec repository: 'github://openponk/uml-metamodel:v1.x/repository' ].
@@ -23,7 +23,7 @@ baseline: spec
 				with: [ spec repository: 'github://openponk/uml-bootstrap-generator:v1.x/repository' ].
 			spec
 				baseline: 'OpenPonk'
-				with: [ spec repository: 'github://openponk/openponk:v1.x/repository' ].
+				with: [ spec repository: 'github://openponk/openponk:pharo7-tmp/repository' ].
 		spec
 				baseline: 'UMLProfiles'
 				with: [ spec repository: 'github://openponk/uml-profiles:v1.x/repository' ].
