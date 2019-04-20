@@ -29,7 +29,7 @@ baseline: spec
 				with: [ spec repository: 'github://openponk/uml-profiles:v1.x/repository' ].
 		spec
 				baseline: 'OntoUMLProfile'
-				with: [ spec repository: 'github://openponk/ontouml-profile:v1.x/repository' ].
+				with: [ spec repository: 'github://openponk/ontouml-profile:pharo7-tmp/repository' ].
 			spec
 				project: 'Magritte'
 				with: [ spec
